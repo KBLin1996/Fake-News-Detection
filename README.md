@@ -1,4 +1,4 @@
-# Team FreeSpirit - Fake News Detection on COVID-19
+# Fake News Detection on COVID-19
 
 ## 
 ![d2k](https://media.licdn.com/dms/image/C4E0BAQHJaTCnDZoaNw/company-logo_200_200/0?e=2159024400&v=beta&t=kMEj3ZLaQ1RzT9MdcxHIbC2IOT3eyPFiKz3yRVrv5Fo)
