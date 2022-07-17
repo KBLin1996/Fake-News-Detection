@@ -1,0 +1,5 @@
+modeling/ML_models/model_instances/SVM
+data/
+.DS_Store
+dataset.csv
+__pycache__/
